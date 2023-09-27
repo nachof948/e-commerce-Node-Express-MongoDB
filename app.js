@@ -1,22 +1,34 @@
 const express = require('express')
 const app = express()
-const puerto = 4500
 const path = require('path')
-const home = require('./routes/rutas')
-const signup = require('./routes/rutas')
+const routes = require('./routes/rutas')
+const connectDB = require('./db/conexion')
+require('dotenv').config()
 
+/* PUERTO DEL SERVIDOR */
+const puerto = process.env.PUERTO
 
+// ACCESO A LOS ARCHIVOS ESTATICOS 
 app.use(express.static('public'))
 
 // Configuración de plantilla EJS
 app.set('view engine', 'ejs')
 
+//Configuración del formulario
+app.use(express.json())
+app.use(express.urlencoded({extended:false}))
 
-app.use('/', home)
-app.use('/signup', signup)
+// CONEXION A LA RUTAS
+app.use('/', routes)
 
 
-// Iniciar el servidor
-app.listen(puerto, () => {
-    console.log(`El servidor esta funcionando en el puerto http://localhost:${puerto} `);
-});
+/* Conexion a la base de datos */
+const iniciar = async () =>{
+    try{
+        await connectDB(process.env.MONGO_URL)
+        app.listen(puerto, console.log(`El servidor se inicio en http://localhost:${puerto}`))
+    }catch(error){
+        console.log(error)
+    }
+}
+iniciar()
