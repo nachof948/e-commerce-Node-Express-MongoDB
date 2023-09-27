@@ -26,7 +26,7 @@ app.use('/', home)
 const iniciar = async () =>{
     try{
         await connectDB(process.env.MONGO_URL)
-        app.listen(puerto, console.log(`El servidor se inicio en http://localhost:${puerto}/home`))
+        app.listen(puerto, console.log(`El servidor se inicio en http://localhost:${puerto}/`))
     }catch(error){
         console.log(error)
     }

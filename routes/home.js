@@ -3,5 +3,5 @@ const router = express.Router()
 
 const { home } = require('../controllers/home')
 
-router.route('/home').get(home)
+router.route('/').get(home)
 module.exports = router
