@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
-const path = require('path')
-const routes = require('./routes/rutas')
+const formulario = require('./routes/formulario')
+const home = require('./routes/home')
 const connectDB = require('./db/conexion')
 require('dotenv').config()
 
@@ -18,15 +18,15 @@ app.set('view engine', 'ejs')
 app.use(express.json())
 app.use(express.urlencoded({extended:false}))
 
-// CONEXION A LA RUTAS
-app.use('/', routes)
-
+// CONEXION A LAS RUTAS
+app.use('/', formulario)
+app.use('/', home)
 
 /* Conexion a la base de datos */
 const iniciar = async () =>{
     try{
         await connectDB(process.env.MONGO_URL)
-        app.listen(puerto, console.log(`El servidor se inicio en http://localhost:${puerto}`))
+        app.listen(puerto, console.log(`El servidor se inicio en http://localhost:${puerto}/home`))
     }catch(error){
         console.log(error)
     }
