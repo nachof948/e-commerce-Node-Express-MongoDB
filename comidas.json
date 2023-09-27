@@ -1,0 +1,257 @@
+[
+    {
+        "nombre": "Hamburguesa Clásica",
+        "descripcion": "Una deliciosa hamburguesa clásica preparada con jugosa carne de res a la parrilla, acompañada de fresca lechuga, rodajas de tomate maduro, cebolla crujiente y una generosa capa de mayonesa, todo servido entre dos suaves panes de hamburguesa recién horneados.",
+        "precio": 3411.20
+    },
+    {
+        "nombre": "Pizza Margherita",
+        "descripcion": "Nuestra auténtica Pizza Margherita presenta una base de masa fina y crujiente, cubierta con capas de queso mozzarella derretido, tomates frescos en rodajas y hojas de albahaca aromaticas. Cada bocado es una explosión de sabores italianos clásicos.",
+        "precio": 3990.00
+    },
+    {
+        "nombre": "Sushi Variado",
+        "descripcion": "Disfruta de una exquisita selección de sushi que incluye finas rebanadas de salmón fresco, atún maguro y aguacate cremoso. Cada rollo está meticulosamente preparado para ofrecerte una experiencia de sabor equilibrada y deliciosa.",
+        "precio": 4932.20
+    },
+    {
+        "nombre": "Ensalada César con Pollo",
+        "descripcion": "Lechuga romana, pollo a la parrilla, parmesano y aderezo césar.",
+        "precio": 3697.00
+    },
+    {
+        "nombre": "Pasta Alfredo con Champiñones",
+        "descripcion": "Pasta fettuccine con salsa Alfredo y champiñones salteados.",
+        "precio": 4275.00
+    },
+    {
+        "nombre": "Tacos de Carnitas",
+        "descripcion": "Tortillas de maíz con cerdo cocido lentamente, cebolla y cilantro.",
+        "precio": 3610.00
+    },
+    {
+        "nombre": "Sopa de Tomate con Albahaca",
+        "descripcion": "Sopa de tomate fresco con hojas de albahaca y croutones.",
+        "precio": 2651.20
+    },
+    {
+        "nombre": "Parrillada Argentina",
+        "descripcion": "Asado de carne de res, chorizo, morcilla y chinchulines.",
+        "precio": 5605.00
+    },
+    {
+        "nombre": "Poke Bowl de Salmón",
+        "descripcion": "Cubos de salmón fresco, aguacate, pepino y salsa de soja.",
+        "precio": 4995.00
+    },
+    {
+        "nombre": "Pasta Pesto con Piñones",
+        "descripcion": "Pasta linguini con salsa pesto y piñones tostados.",
+        "precio": 4185.20
+    },
+    {
+        "nombre": "Bistec a la Parrilla",
+        "descripcion": "Bistec de res a la parrilla con papas fritas y vegetales.",
+        "precio": 4750.00
+    },
+    {
+        "nombre": "Roll de Aguacate Tempura",
+        "descripcion": "Aguacate frito en tempura, envuelto en arroz y alga nori.",
+        "precio": 2945.00
+    },
+    {
+        "nombre": "Enchiladas Verdes de Pollo",
+        "descripcion": "Tortillas de maíz rellenas de pollo bañadas en salsa verde.",
+        "precio": 3411.20
+    },
+    {
+        "nombre": "Ramen de Cerdo Tonkotsu",
+        "descripcion": "Caldo espeso de cerdo con fideos ramen, huevo y cebolla verde.",
+        "precio": 4552.20
+    },
+    {
+        "nombre": "Bruschetta Caprese",
+        "descripcion": "Pan tostado con tomate, mozzarella fresca y albahaca.",
+        "precio": 2755.00
+    },
+    {
+        "nombre": "Paella de Mariscos",
+        "descripcion": "Arroz con mejillones, camarones y calamares en su tinta.",
+        "precio": 6270.00
+    },
+    {
+        "nombre": "Tarta de Manzana",
+        "descripcion": "Masa hojaldrada con relleno de manzana y canela.",
+        "precio": 2274.20
+    },
+    {
+        "nombre": "Tacos de Hongos Portobello",
+        "descripcion": "Tortillas de maíz con hongos portobello y guacamole.",
+        "precio": 3230.00
+    },
+    {
+        "nombre": "Sushi Dragon Roll",
+        "descripcion": "Roll de sushi con anguila, aguacate y cangrejo de imitación.",
+        "precio": 5311.20
+    },
+    {
+        "nombre": "Pasta Carbonara",
+        "descripcion": "Pasta spaghetti con huevo, panceta y queso parmesano.",
+        "precio": 3697.00
+    },
+    {
+        "nombre": "Parrillada de Mariscos",
+        "descripcion": "Selección de mariscos a la parrilla con salsa de ajo y limón.",
+        "precio": 6832.20
+    },
+    {
+        "nombre": "Tacos al Pastor",
+        "descripcion": "Tortillas de maíz con cerdo adobado, piña y cebolla.",
+        "precio": 3515.00
+    },
+    {
+        "nombre": "Lasagna de Espinacas",
+        "descripcion": "Capas de pasta con espinacas, ricotta y salsa de tomate.",
+        "precio": 4085.00
+    },
+    {
+        "nombre": "Ceviche de Camarón",
+        "descripcion": "Camarones frescos marinados en limón con cilantro y cebolla.",
+        "precio": 4750.00
+    },
+    {
+        "nombre": "Risotto de Champiñones",
+        "descripcion": "Arroz cremoso con champiñones y parmesano.",
+        "precio": 4552.20
+    },
+    {
+        "nombre": "Pollo a la Miel y Mostaza",
+        "descripcion": "Pechuga de pollo glaseada con salsa de miel y mostaza.",
+        "precio": 4185.20
+    },
+    {
+        "nombre": "Tarta de Limón",
+        "descripcion": "Masa quebrada con relleno de limón y merengue.",
+        "precio": 2565.00
+    },
+    {
+        "nombre": "Wrap de Tofu y Aguacate",
+        "descripcion": "Tofu marinado con aguacate, lechuga y mayonesa vegana.",
+        "precio": 3411.20
+    },
+    {
+        "nombre": "Fideos Udon con Tempura",
+        "descripcion": "Fideos gruesos con tempura de verduras y camarones.",
+        "precio": 4655.00
+    },
+    {
+        "nombre": "Ensalada Griega",
+        "descripcion": "Pepino, tomate, aceitunas y queso feta con aderezo de orégano.",
+        "precio": 3230.00
+    },
+    {
+        "nombre": "Tacos de Pescado",
+        "descripcion": "Filete de pescado empanizado en tortillas de maíz con repollo y salsa de crema.",
+        "precio": 4370.00
+    },
+    {
+        "nombre": "Gnocchi con Salsa de Tomate",
+        "descripcion": "Ñoquis de patata con salsa de tomate casera y albahaca.",
+        "precio": 3796.20
+    },
+    {
+        "nombre": "Quesadillas de Hongos",
+        "descripcion": "Tortillas de harina rellenas de hongos y queso fundido.",
+        "precio": 3325.00
+    },
+    {
+        "nombre": "Sushi Rainbow Roll",
+        "descripcion": "Roll de sushi con variedad de pescados y aguacate.",
+        "precio": 5694.20
+    },
+    {
+        "nombre": "Pasta con Pesto de Espárragos",
+        "descripcion": "Pasta fusilli con pesto de espárragos y piñones.",
+        "precio": 4465.00
+    },
+    {
+        "nombre": "Hamburguesa Vegetariana",
+        "descripcion": "Hamburguesa de garbanzos y vegetales con guarnición de batatas.",
+        "precio": 3796.20
+    },
+    {
+        "nombre": "Sopa de Calabaza",
+        "descripcion": "Crema de calabaza con crujientes de panceta.",
+        "precio": 2850.00
+    },
+    {
+        "nombre": "Ramen Vegano",
+        "descripcion": "Caldo de miso con fideos ramen, tofu y verduras.",
+        "precio": 4085.00
+    },
+    {
+        "nombre": "Ensalada de Quinoa",
+        "descripcion": "Quinoa cocida con garbanzos, espinacas y aderezo de tahini.",
+        "precio": 3515.00
+    },
+    {
+        "nombre": "Pasta con Salsa de Vodka",
+        "descripcion": "Pasta penne con salsa de tomate, vodka y crema.",
+        "precio": 4655.00
+    },
+    {
+        "nombre": "Roll de Mango y Aguacate",
+        "descripcion": "Sushi roll con mango, aguacate y pepino.",
+        "precio": 5130.00
+    },
+    {
+        "nombre": "Tarta de Chocolate y Frambuesa",
+        "descripcion": "Masa de chocolate con crema de chocolate y frambuesas frescas.",
+        "precio": 2651.20
+    },
+    {
+        "nombre": "Poke Bowl Vegano",
+        "descripcion": "Bowl con arroz, tofu, aguacate y vegetales variados.",
+        "precio": 4552.20
+    },
+    {
+        "nombre": "Canelones de Ricotta y Espinacas",
+        "descripcion": "Canelones rellenos de ricotta y espinacas con bechamel.",
+        "precio": 3990.00
+    },
+    {
+        "nombre": "Sushi Tempura Roll",
+        "descripcion": "Sushi roll con tempura de langostinos y aguacate.",
+        "precio": 5605.00
+    },
+    {
+        "nombre": "Pasta con Salsa de Trufa",
+        "descripcion": "Pasta fettuccine con salsa de crema y aceite de trufa.",
+        "precio": 5027.00
+    },
+    {
+        "nombre": "Ensalada de Garbanzos",
+        "descripcion": "Garbanzos cocidos con tomate, pepino y cilantro.",
+        "precio": 3325.00
+    },
+    {
+        "nombre": "Tacos de Calabacín",
+        "descripcion": "Tortillas de maíz con calabacín a la parrilla y guacamole.",
+        "precio": 3610.00
+    },
+    {
+        "nombre": "Sopa Minestrone",
+        "descripcion": "Sopa de verduras y legumbres con pasta.",
+        "precio": 3032.20
+    },
+    {
+        "nombre": "Roll de Salmón y Mango",
+        "descripcion": "Sushi roll con salmón fresco y mango.",
+        "precio": 5225.00
+    },
+    {
+        "nombre": "Pasta con Salsa Puttanesca",
+        "descripcion": "Pasta spaghetti con salsa de tomate, aceitunas y alcaparras.",
+        "precio": 4185.20
+    }
+]
